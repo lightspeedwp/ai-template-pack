@@ -115,7 +115,7 @@ Ensure your sprint planning results in:
 **"Implement user authentication and basic profile management to enable secure user access and personalized experiences"**
 
 ## Team Capacity Analysis
-- **Team Size**: 5 developers
+- **Development Team**: 5 developers (QA and design capacity tracked separately)
 - **Sprint Duration**: 10 working days  
 - **Net Available Capacity**: 334 hours
 - **Target Story Points**: 42 points
