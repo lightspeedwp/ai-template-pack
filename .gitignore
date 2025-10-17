@@ -1,0 +1,92 @@
+# Dependencies
+node_modules/
+*/node_modules/
+.npm
+
+# Build outputs
+dist/
+build/
+*/dist/
+*/build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+.nyc_output
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# Testing
+.nyc_output/
+coverage/
+junit.xml
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Local development
+.local/
+
+# Ignore actual release files in dist/ (they should be generated, not committed)
+# Keep README.md but ignore ZIP files
+dist/*.zip
+dist/*.tar.gz
+dist/*.tgz
