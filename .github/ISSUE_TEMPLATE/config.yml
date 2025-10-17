@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🗣️ GitHub Discussions
+    url: https://github.com/lightspeedwp/ai-template-pack/discussions
+    about: Community conversations, ideas, and general discussion
+  - name: 📖 Template Specification
+    url: https://github.com/lightspeedwp/.github/blob/develop/docs/ai/template-spec.md
+    about: Detailed guide for creating AI templates
+  - name: 🏢 LightSpeed WP
+    url: https://lightspeedwp.com
+    about: Visit our agency website for professional AI services
